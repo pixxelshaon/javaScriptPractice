@@ -1,4 +1,10 @@
-var num1 = 45;
-var num2 = 80;
+var numberONe = 55;
+var numberTwo = 65.5;
+var firstName = 'shaon';
+var isGood = true;
 
-console.log(num1+num2);
+
+console.log(numberONe);
+console.log(numberTwo);
+console.log(firstName);
+console.log(isGood);
