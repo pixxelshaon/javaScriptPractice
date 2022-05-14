@@ -8,3 +8,6 @@ console.log('User hobby is: '+userOne[2]);
 console.log('User mobile number is: '+userOne[3]);
 
 console.log('The object length is: '+userOne.length);
+
+
+console.log(userOne[2]);
